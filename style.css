@@ -1,0 +1,41 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#rickbut {
+    color: #ffffff;
+    border-color: rgb(220, 66, 66);
+    background-color: rgb(220, 66, 66);
+    border-radius: 20%;
+}
+#but1 {
+    color: #ffffff;
+    border-color: rgb(66, 184, 220);
+    background-color: rgb(66, 184, 220);
+    border-radius: 20%;
+}
+#but2 {
+    color: #ffffff;
+    border-color: rgb(66, 220, 105);
+    background-color: rgb(66, 220, 105);
+    border-radius: 20%;
+}
+#but3 {
+    color: #ffffff;
+    border-color: #ffd900;
+    background-color: #ffd900;
+    border-radius: 20%;
+}
+#but4 {
+    color: #ffffff;
+    border-color: rgb(220, 66, 143);
+    background-color: rgb(220, 66, 143);
+    border-radius: 20%;
+}
+#but5 {
+    color: #ffffff;
+    border-color: #dc7842;
+    background-color: #dc7842;
+    border-radius: 20%;
+}
+
+
